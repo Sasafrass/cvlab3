@@ -1,0 +1,1 @@
+Lucas_Canede('synth1.pgm','synth2.pgm',15)
